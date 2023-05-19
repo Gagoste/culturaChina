@@ -3,7 +3,7 @@
 
 
 // DECLARACIÓN DEL MENSAJE
-var mensajeDeInicio = "GRACIAS POR VISITARNOS IBFK";
+var mensajeDeInicio = "bienvenido al palacio de la cultura china";
 
 
 
